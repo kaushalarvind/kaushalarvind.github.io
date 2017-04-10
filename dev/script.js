@@ -11,4 +11,5 @@ function func(){
 		x.responseType = "document";
 		ta.innerHTML = x.responseText;
 	}
+}
 	x.send();
